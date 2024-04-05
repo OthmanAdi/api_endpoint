@@ -10,7 +10,7 @@ export default function Home() {
           {/* Placeholder for SlackAPI */}
           {/* Placeholder for Notion API */}
           {/* Placeholder for OpenAI API */}
-          
+
         </div>
       </div>
     </div>
